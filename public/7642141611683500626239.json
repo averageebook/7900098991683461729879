@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "995630883917",
+    "project_id": "ferymaleha-ed295",
+    "storage_bucket": "ferymaleha-ed295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995630883917:android:5e102aeb8753d35991e804",
+        "android_client_info": {
+          "package_name": "com.ferymaleha.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995630883917-re0usi563k55n2a2gh2ntqbvmqfhoa6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr5xG4CKbCyCaoz6gWLMBeKW3WP_E03lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995630883917-re0usi563k55n2a2gh2ntqbvmqfhoa6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995630883917:android:d99a64e2bf2d59c091e804",
+        "android_client_info": {
+          "package_name": "com.ferymaleha.me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995630883917-re0usi563k55n2a2gh2ntqbvmqfhoa6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr5xG4CKbCyCaoz6gWLMBeKW3WP_E03lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995630883917-re0usi563k55n2a2gh2ntqbvmqfhoa6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
